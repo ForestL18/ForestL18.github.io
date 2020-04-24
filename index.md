@@ -8,7 +8,7 @@
 <br />
 
 # ATTENTION!!!  
-# THE WORDS YOU WILL SEE IS QUIET IMPORTANT!!!<br />
+# THE WORDS YOU WILL SEE IS QUITE IMPORTANT!!!<br />
 <br />
 <br />
 <br />
