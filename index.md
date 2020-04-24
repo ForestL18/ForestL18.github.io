@@ -2,9 +2,6 @@
 ## My github repositories is:https://github.com/ForestL18?tab=repositories  
 <br />
 <br />
-
-### [click me!](https://github.com/ForestL18?tab=repositories "my blog website")  
-<br />
 <br />
 <br />
 
@@ -66,3 +63,4 @@
 
 # 贺壮壮是我的儿子!!!👨‍👦  
 # 爸爸永远爱你!  👨🏼‍🤝‍👨🏻  
+## [click me!](https://raw.githubusercontent.com/ForestL18/ForestL18.github.io/master/2020-02-19-0.bmp "my son's picture")
